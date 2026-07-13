@@ -311,8 +311,3 @@ projetUA2/
         └── StatsView.swift              → Statistiques + diagramme circulaire custom
 ```
 
----
-
-## Auteur
-
-Projet réalisé par **duclo001** dans le cadre du cours IFM025921.
